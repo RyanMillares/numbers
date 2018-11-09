@@ -33,6 +33,6 @@ do
 	read ANS
 done
 echo "All done!"
-# last read is to pause program before end, was used to read error msgs before program closes
+# last read is to pause program before end, was used to read error msgs before script closes
 read stop
 
